@@ -1,0 +1,19 @@
+Directory of D:\MINES\.
+.              <DIR>            23-03-2019  6:58
+..             <DIR>            23-03-2019  6:56
+ADVHSC   TPU              8,240 04-11-1994 15:31
+DEFAULT  FNT                408 26-03-1996 12:52
+DEFAULT  PIC              5,632 18-11-1996 13:36
+DIGGER   FNT                408 20-04-1996 17:37
+FILES    TXT                  0 23-03-2019  6:58
+GAMEPRO  PAS             10,861 27-10-1996 12:54
+GAMEPRO  TPU              9,616 17-11-1996 15:46
+GRAPHPRO PAS              4,038 17-11-1996 16:24
+GRAPHPRO TPU              2,912 17-11-1996 20:37
+MINE     EXE             21,416 22-11-1996 16:37
+MINE     PAS              9,829 22-11-1996 16:36
+MUSIC    HSC             14,259 10-08-1992 13:52
+PE       PAS             16,096 18-11-1996 13:32
+READ     ME!                938 18-10-1996 11:33
+   14 File(s)           104,653 Bytes.
+    2 Dir(s)        262,111,744 Bytes free.
