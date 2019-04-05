@@ -16,3 +16,5 @@ The images were edited using a picture editor,
 which is not currently available online. The 
 file format is just a raw dump of memory for 
 the images.
+
+![](mines.png?raw=true)
